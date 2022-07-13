@@ -22,4 +22,3 @@ class TestStrConverter(object):
         expected = "1"
         assert actual == expected, f'Actual: {actual}, Expected: {expected}'
 
-
